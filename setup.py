@@ -12,11 +12,12 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pszewczykpl/QeezPy",
-    packages=setuptools.find_packages(),
+    package_dir={"": "src"},
+    packages=["qeezpy"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.8',
+    python_requires='>=3.8'
 )
