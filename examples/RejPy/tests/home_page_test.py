@@ -1,10 +1,8 @@
 import unittest
-from selenium import webdriver
 from faker import Faker
-from pages.login_page import *
-from pages.home_page import *
-from resources.data import *
-from resources.drivers import *
+from examples.RejPy.pages.login_page import *
+from examples.RejPy.pages.home_page import *
+from examples.RejPy.resources.drivers import *
 
 
 class HomePageTests(unittest.TestCase):

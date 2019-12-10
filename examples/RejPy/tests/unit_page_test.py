@@ -1,14 +1,11 @@
 import unittest
 from faker import Faker
 import json
-import datetime
-from pages.login_page import *
-from pages.poll_page import *
-from pages.home_page import *
-from pages.unit_page import *
-from pages.unit_page import *
-from resources.drivers import *
-from resources.data import *
+from examples.RejPy.pages.login_page import *
+from examples.RejPy.pages.home_page import *
+from examples.RejPy.pages.unit_page import *
+from examples.RejPy.resources.drivers import *
+from examples.RejPy.resources.data import *
 
 
 class UnitPageTests(unittest.TestCase):

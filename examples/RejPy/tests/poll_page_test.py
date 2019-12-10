@@ -1,12 +1,10 @@
 import unittest
-from selenium import webdriver
 from faker import Faker
 import datetime
-from pages.login_page import *
-from pages.poll_page import *
-from pages.home_page import *
-from resources.data import *
-from resources.drivers import *
+from examples.RejPy.pages.login_page import *
+from examples.RejPy.pages.poll_page import *
+from examples.RejPy.pages.home_page import *
+from examples.RejPy.resources.drivers import *
 
 
 class PollPageTests(unittest.TestCase):

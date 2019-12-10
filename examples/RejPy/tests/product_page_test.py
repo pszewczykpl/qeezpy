@@ -1,13 +1,12 @@
 import unittest
 import json
-from time import sleep
 from faker import Faker
-from pages.login_page import *
-from pages.home_page import *
-from pages.product_search_page import *
-from pages.product_edit_page import *
-from resources.drivers import *
-from resources.data import *
+from examples.RejPy.pages.login_page import *
+from examples.RejPy.pages.home_page import *
+from examples.RejPy.pages.product_search_page import *
+from examples.RejPy.pages.product_edit_page import *
+from examples.RejPy.resources.drivers import *
+from examples.RejPy.resources.data import *
 
 
 class ProductPageTests(unittest.TestCase):
