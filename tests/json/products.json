@@ -1,0 +1,1966 @@
+[
+  {
+    "symbol": "201_GB_OGIR105",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "202_GB_OGIR107",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "213_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "223_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "233_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "243_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "244_UB_OGIR116",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "253_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "254_UB_OGIR116",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "263_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "273_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "283_UB_OGIR115",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "284_UB_OGIR116",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "400_UB_OGIJ144",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "1000"
+      }
+    ]
+  },
+  {
+    "symbol": "4001_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4002_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4005_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4006_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4007_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4008_UB_OLIR126",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4011_UB_OLIR132",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4012_UB_OLIR132",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4014_UB_OLIR130",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4015_UB_OLIR132",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4030_UB_OLIR128",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4031_UB_OLIR128",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4032_UB_OLIR128",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4034_UB_OLIR128",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4180_UB_OLIJ148",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4190_UB_OLIJ150",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4200_UB_OLIJ142",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4211_UB_OLIJ177",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4212_UB_OLIJ177",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4215_UB_OLIJ184",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4260_UB_OLIJ150",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4262_UB_OLIJ167",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4310_UB_OLIJ142",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4311_UB_OLIJ142",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4320_UB_OLIJ148",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4321_UB_OLIJ173",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4330_UB_OLIR135",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4333_UB_OLIR136",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4374_UB_OLIJ190",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4380_UB_OLIJ189",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4702_UB_OLIJ129",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4801_UB_OLIJ135",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4802_UB_OLIJ136",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "false"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "4841_UB_OLIJ177",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "4842_UB_OLIJ177",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "EGIDA_UB_OGIR132",
+    "newOrders": [
+      {
+        "order_code": "g_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "g_fin_pn",
+        "right_list": ["Ubezpieczony"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "true"
+      },
+      {
+        "key": "min_wartosc_alokacji",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "10"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "true"
+      },
+      {
+        "key": "przeniesienie_kwota_min",
+        "value": "250"
+      }
+    ]
+  },
+  {
+    "symbol": "MULTI_UB_OLIJ171",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "symbol": "spektrum_inw_UB_OLIJ153",
+    "newOrders": [
+      {
+        "order_code": "i_fin",
+        "right_list": ["Partner", "Pracownik TU"],
+        "confirm_request": "true"
+      },
+      {
+        "order_code": "i_fin_pn",
+        "right_list": ["Ubezpieczony/Ubezpieczający", "Ubezpieczający"],
+        "confirm_request": "false"
+      }
+    ],
+    "addSubscriptionsParams": [
+      {
+        "key": "blokada_dysp_fin_6dni",
+        "value": "true"
+      },
+      {
+        "key": "zmiana_podzialu_skladki",
+        "value": "false"
+      },
+      {
+        "key": "przeniesienie_procent_min",
+        "value": "1"
+      },
+      {
+        "key": "przeniesienie_kwotowe",
+        "value": "false"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1269 @@
+[
+  {
+      "symbol": "GN_0447",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0008",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_1252",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0512",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0166",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0258",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0309",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0497",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_0868",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_1264",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_1"
+      }
+  },
+  {
+      "symbol": "GN_1360",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_0355",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_0889",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_2021",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_0638",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_1246",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_0577",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_2055",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_1245",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_1398",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_2"
+      }
+  },
+  {
+      "symbol": "GN_1289",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_1273",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_0867",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_0381",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_2051",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_1117",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_2054",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_0446",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_1361",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_3"
+      }
+  },
+  {
+      "symbol": "GN_0570",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0239",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0864",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0190",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0252",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0684",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0341",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0634",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_1351",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_4"
+      }
+  },
+  {
+      "symbol": "GN_0172",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0317",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0327",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0311",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0301",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0303",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0329",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0314",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0316",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0488",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_5"
+      }
+  },
+  {
+      "symbol": "GN_0218",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_2034",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_1253",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0253",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0582",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0279",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0229",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_1305",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0505",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_6"
+      }
+  },
+  {
+      "symbol": "GN_0522",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0637",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0700",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0015",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0013",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0009",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0397",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0236",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0017",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_1259",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_7"
+      }
+  },
+  {
+      "symbol": "GN_0370",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0462",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0371",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0692",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0937",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0654",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0483",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_1263",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_8"
+      }
+  },
+  {
+      "symbol": "GN_0243",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_0878",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_0168",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_2039",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_2004",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_0352",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_0441",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_1260",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_1262",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_I",
+           "region": "GN_REGION_9"
+      }
+  },
+  {
+      "symbol": "GN_0304",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0307",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0565",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0376",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0310",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0622",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0916",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0705",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0516",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_10"
+      }
+  },
+  {
+      "symbol": "GN_0318",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0568",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_2033",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0395",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0394",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0482",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0594",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0209",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0108",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_11"
+      }
+  },
+  {
+      "symbol": "GN_0513",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0382",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0871",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_1352",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0101",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0557",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0148",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0145",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0144",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_1395",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_12"
+      }
+  },
+  {
+      "symbol": "GN_0405",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0102",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_2001",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0116",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0127",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0105",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0131",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0126",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0114",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0138",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_13"
+      }
+  },
+  {
+      "symbol": "GN_0225",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0150",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0630",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0103",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0135",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0106",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0621",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0119",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0866",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0137",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_1261",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_14"
+      }
+  },
+  {
+      "symbol": "GN_0125",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0228",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0104",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0121",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0109",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_2011",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0152",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0383",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0396",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0120",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_15"
+      }
+  },
+  {
+      "symbol": "GN_0558",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0011",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0699",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0375",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0031",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0038",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_2002",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0380",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0030",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0393",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0029",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_1244",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0385",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0556",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0019",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0598",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_1380",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_16"
+      }
+  },
+  {
+      "symbol": "GN_0991",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0020",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0021",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0036",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0014",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0018",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0440",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_0612",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_1250",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_1384",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_17"
+      }
+  },
+  {
+      "symbol": "GN_2031",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0537",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0384",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0280",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0226",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0623",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0400",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0186",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0362",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_0545",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  },
+  {
+      "symbol": "GN_1251",
+      "editDetails": { 
+           "macro_region": "GN_MAKROREGION_II",
+           "region": "GN_REGION_18"
+      }
+  }
+]
