@@ -1,7 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-
-from pages.page import Page
+from qeezpy import Page
 
 
 class SearchProductPage(Page):
@@ -75,7 +74,7 @@ class SearchProductPage(Page):
 
     def select_product_kind(self, product_kind):
         select = Select(self.find_element(*self.PRODUCT_KIND_SELECT))
-        select.s
+        select.select_by_visible_text(product_kind)
 
     def select_company_name(self, company_name):
         select = Select(self.find_element(*self.COMPANY_NAME_SELECT))

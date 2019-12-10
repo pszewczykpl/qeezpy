@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from pages.page import Page
+from qeezpy import Page
 
 
 class HomePage(Page):

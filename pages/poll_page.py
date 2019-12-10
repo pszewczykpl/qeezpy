@@ -1,7 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-
-from pages.page import Page
+from qeezpy import Page
 
 
 class PollPage(Page):
