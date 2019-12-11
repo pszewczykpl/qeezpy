@@ -12,7 +12,7 @@ class Page(object):
         obj.accept()
 
     def wait_to_be_clickable(self, *locator):
-        self.wait.until(EC.element_to_be_clickable(*locator))
+        return self.wait.until(EC.element_to_be_clickable(*locator))
 
     def find_element(self, *locator):
         return self.driver.find_element(*locator)

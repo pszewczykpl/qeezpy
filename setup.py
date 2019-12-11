@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="QeezPy", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Piotr Szewczyk",
     author_email="piotr.szewczyk96@gmail.com",
     description="Selenium WebDriver Python Framework to create POM tests",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pszewczykpl/QeezPy",
-    package_dir={"": "src"},
+    package_dir=["src"],
     packages=["qeezpy"],
     classifiers=[
         "Programming Language :: Python :: 3",
