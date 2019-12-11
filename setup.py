@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pszewczykpl/QeezPy",
-    package_dir=["src"],
+    package_dir={"": "src"},
     packages=["qeezpy"],
     classifiers=[
         "Programming Language :: Python :: 3",
