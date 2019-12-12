@@ -2,13 +2,17 @@ from selenium import webdriver
 import os
 
 
-class FirefoxDriver:
+class DriverManager:
 
     def __init__(self):
         self.firefox_profile = webdriver.FirefoxProfile()
-        self.driver = webdriver.Firefox(
+
+    def firefox(self):
+        firefox = webdriver.Firefox(
             firefox_profile=self.firefox_profile
         )
+
+        return firefox
 
     def set_firefox_profile(self):
         """
@@ -23,6 +27,3 @@ class FirefoxDriver:
             'text/csv,application/octet-stream,application/pdf,application/vnd.ms-excel'
         )
         self.firefox_profile.set_preference("pdfjs.disabled", True)
-
-    def return_driver(self):
-        return self.driver
