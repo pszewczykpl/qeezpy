@@ -1,2 +1,2 @@
 from .page import Page
-from .drivermanager import FirefoxDriver
+from .drivermanager import DriverManager
