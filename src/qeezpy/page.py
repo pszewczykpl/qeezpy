@@ -2,7 +2,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 
 
-# Page is serving basic attributes to use in every single Page class
 class Page(object):
     def __init__(self, driver):
         self.driver = driver
@@ -10,7 +9,7 @@ class Page(object):
     def accept_alert(self):
         obj = self.driver.switch_to.alert
         obj.accept()
-
+        
     def find_element(self, *locator):
         return self.driver.find_element(*locator)
 
