@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="QeezPy", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Piotr Szewczyk",
     author_email="piotr.szewczyk96@gmail.com",
     description="Selenium WebDriver Python Framework to create POM tests",

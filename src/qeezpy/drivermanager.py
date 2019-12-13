@@ -4,13 +4,12 @@ import os
 
 class DriverManager:
 
-    def __init__(self):
+    def __init__(self, executable_path=None):
         self.firefox_profile = webdriver.FirefoxProfile()
+        self.executable_path = executable_path
 
     def firefox(self):
-        firefox = webdriver.Firefox(
-            firefox_profile=self.firefox_profile
-        )
+        firefox = webdriver.Firefox(executable_path=self.executable_path)
 
         return firefox
 
@@ -22,8 +21,5 @@ class DriverManager:
         self.firefox_profile.set_preference('browser.download.folderList', 2)  # custom location
         self.firefox_profile.set_preference('browser.download.manager.showWhenStarting', False)
         self.firefox_profile.set_preference('browser.download.dir', os.getcwd())
-        self.firefox_profile.set_preference(
-            'browser.helperApps.neverAsk.saveToDisk',
-            'text/csv,application/octet-stream,application/pdf,application/vnd.ms-excel'
-        )
+        self.firefox_profile.set_preference('browser.helperApps.neverAsk.saveToDisk', 'text/csv,application/octet-stream,application/pdf,application/vnd.ms-excel')
         self.firefox_profile.set_preference("pdfjs.disabled", True)
