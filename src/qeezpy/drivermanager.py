@@ -4,12 +4,13 @@ import os
 
 class DriverManager:
 
-    def __init__(self, executable_path=None):
+    def __init__(self):
         self.firefox_profile = webdriver.FirefoxProfile()
-        self.executable_path = executable_path
 
     def firefox(self):
-        firefox = webdriver.Firefox(executable_path=self.executable_path)
+        firefox = webdriver.Firefox(
+            firefox_profile=self.firefox_profile
+        )
 
         return firefox
 
