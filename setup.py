@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="QeezPy", # Replace with your own username
-    version="0.0.3",
+    name="QeezPy",  # Replace with your own username
+    version="0.0.4",
     author="Piotr Szewczyk",
     author_email="piotr.szewczyk96@gmail.com",
     description="Selenium WebDriver Python Framework to create POM tests",
