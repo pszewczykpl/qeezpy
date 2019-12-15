@@ -3,8 +3,13 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 class Page(object):
+    PAGE_URL = None
+
     def __init__(self, driver):
         self.driver = driver
+
+    def open(self):
+        self.driver.get(self.PAGE_URL)
 
     def accept_alert(self):
         obj = self.driver.switch_to.alert
