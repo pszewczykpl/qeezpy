@@ -1,5 +1,6 @@
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.select import Select
 
 
 class Page(object):
@@ -10,6 +11,10 @@ class Page(object):
 
     def open(self):
         self.driver.get(self.PAGE_URL)
+
+    def select(self, *locator):
+        select = Select(self.driver.find_element(*locator))
+        return select
 
     def accept_alert(self):
         obj = self.driver.switch_to.alert
